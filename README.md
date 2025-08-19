@@ -47,4 +47,4 @@ This project is ideal for understanding location-based services and implementing
 1. Clone the repository:
 
 ```bash
-https://github.com/Fiza26u12/rapido_clone.git
+https://github.com/Fiza26u12/live_tracking.git
